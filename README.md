@@ -56,4 +56,4 @@ Colors used:
 ## Example Output
 Here’s what the program finds in an image:
 
-![Detected Shapes](ou)
+![Detected Shapes](output.png)
